@@ -1,0 +1,15 @@
+# Exclude Python virtual environment
+.venv/
+# Exclude data files
+data/
+# Exclude vector database files
+vectordb/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+# VS Code settings
+.vscode/
+# OS files
+.DS_Store
+Thumbs.db
